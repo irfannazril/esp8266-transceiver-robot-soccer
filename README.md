@@ -16,7 +16,7 @@ Dalam tim ini, saya bertanggung jawab penuh sebagai **Hardware Executor**, yang 
 * **Aktuator/Motor:** DC Gear TT Motor
 * **Motor Driver:** DRV8833
 * **Sumber Daya:** Li-Ion 14500/AA 2 Cell 7.4V 550mAh
-* **Komponen Pasif/Lainnya:** Kapasitor 470uF 16V, PCB dot matrix 5x7cm, Mini 360 Buck Converter, push button, pin header female, socket JST-PH2.0 2 pin, kabel tunggal 0.5mm, spacer 1,4cm, 2WD Robot Car Chassis Kit, 3D printed custom part.
+* **Komponen Pasif/Lainnya:** Kapasitor 470uF 16V, PCB dot matrix 5x7cm, Mini 360 Buck Converter, slide switch SPDT 3 pin, push button, pin header female, socket JST-PH2.0 2 pin, kabel tunggal 0.5mm, spacer 1,4cm, 2WD Robot Car Chassis Kit, 3D printed custom part.
 
 ## 📐 Skematik dan Arsitektur Hardware
 <img width="777" height="504" alt="Schematic_Fritzing" src="https://github.com/user-attachments/assets/65cea548-37de-450b-b4e3-1ef8c0ac2816" />
@@ -35,6 +35,15 @@ Selama proses eksekusi fisik, ada beberapa kendala yang berhasil diatasi:
 4. **Kapasitas Baterai yang Kecil:** karena durasi pertandingan cukup lama, kapasitas batertai 550mAh kurang bertahan lama *Solusi: mengganti baterai yang semula berukuran 14500/AA dengan kapasitas 550mAh menjadi baterai 18650 dengan kapasitas 2000mAh*
 
 ## 📸 Dokumentasi Perakitan
-*(Unggah foto-foto proses penyolderan, foto saat robot belum ditutup casing, atau foto saat pengujian di breadboard).*
-* [Foto proses penyolderan PCB]
-* [Foto integrasi mikrokontroler dengan motor driver]
+* [Proses penyolderan PCB]
+  <img width="1080" height="1920" alt="Proses Solder PCB" src="https://github.com/user-attachments/assets/958c062f-9af1-4326-a8e4-e75cfc008ed4" />
+  
+* [Proses desain 3D untuk penggiring bola]
+  <img width="1365" height="606" alt="Screenshot_6" src="https://github.com/user-attachments/assets/8b29bd80-9448-4aaa-b34f-934f8bacdbd5" />
+  
+* [Hasil Penyolderan PCB]
+  <img width="1080" height="1920" alt="Hasil PCB Setelah Solder Back" src="https://github.com/user-attachments/assets/b173e35a-7c85-4499-86ab-833dfaf00de5" />
+  <img width="1080" height="1920" alt="Hasil PCB Setelah Solder Front" src="https://github.com/user-attachments/assets/f5b09752-82f3-4184-86e4-e0f989bdbdd4" />
+
+* [Robot Soccer]
+  <img width="2160" height="3840" alt="Robot Soccer" src="https://github.com/user-attachments/assets/aa686d3e-0c54-438c-b08b-0ff73e2e1198" />

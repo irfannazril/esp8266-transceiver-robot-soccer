@@ -7,6 +7,7 @@ Proyek ini adalah sistem komunikasi *transceiver* nirkabel yang dirancang untuk 
 ## 🎯 Peran Saya (Hardware & System Integration)
 Dalam tim ini, saya bertanggung jawab penuh sebagai **Hardware Executor**, yang mencakup:
 * Merancang dan menggambar skematik rangkaian kelistrikan.
+* Membuat program untuk controller (ESP-8266) dan program untuk robot (ESP-01S).
 * Memilih spesifikasi komponen (ESP8266, ESP-01S, motor driver, dll) yang paling efisien untuk kebutuhan daya dan ukuran mobil.
 * Melakukan penyolderan, perakitan fisik (*wiring*), dan *troubleshooting* pada level sirkuit kelistrikan.
 * Memastikan konektivitas fisik stabil saat robot bermanuver pada kecepatan tinggi.

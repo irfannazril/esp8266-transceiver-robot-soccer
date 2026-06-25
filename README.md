@@ -36,14 +36,18 @@ Selama proses eksekusi fisik, ada beberapa kendala yang berhasil diatasi:
 
 ## 📸 Dokumentasi Perakitan
 * [Proses penyolderan PCB]
-  <img width="1080" height="1920" alt="Proses Solder PCB" src="https://github.com/user-attachments/assets/958c062f-9af1-4326-a8e4-e75cfc008ed4" />
+  <br>
+  <img width="360" height="640" alt="Proses Solder PCB" src="https://github.com/user-attachments/assets/958c062f-9af1-4326-a8e4-e75cfc008ed4" />
   
 * [Proses desain 3D untuk penggiring bola]
-  <img width="1365" height="606" alt="Screenshot_6" src="https://github.com/user-attachments/assets/8b29bd80-9448-4aaa-b34f-934f8bacdbd5" />
+  <br>
+  <img width="910" height="404" alt="Screenshot_6" src="https://github.com/user-attachments/assets/8b29bd80-9448-4aaa-b34f-934f8bacdbd5" />
   
 * [Hasil Penyolderan PCB]
-  <img width="1080" height="1920" alt="Hasil PCB Setelah Solder Back" src="https://github.com/user-attachments/assets/b173e35a-7c85-4499-86ab-833dfaf00de5" />
-  <img width="1080" height="1920" alt="Hasil PCB Setelah Solder Front" src="https://github.com/user-attachments/assets/f5b09752-82f3-4184-86e4-e0f989bdbdd4" />
+  <br>
+  <img width="360" height="640" alt="Hasil PCB Setelah Solder Back" src="https://github.com/user-attachments/assets/b173e35a-7c85-4499-86ab-833dfaf00de5" />
+  <img width="360" height="640" alt="Hasil PCB Setelah Solder Front" src="https://github.com/user-attachments/assets/f5b09752-82f3-4184-86e4-e0f989bdbdd4" />
 
 * [Robot Soccer]
-  <img width="2160" height="3840" alt="Robot Soccer" src="https://github.com/user-attachments/assets/aa686d3e-0c54-438c-b08b-0ff73e2e1198" />
+  <br>
+  <img width="360" height="640" alt="Robot Soccer" src="https://github.com/user-attachments/assets/aa686d3e-0c54-438c-b08b-0ff73e2e1198" />

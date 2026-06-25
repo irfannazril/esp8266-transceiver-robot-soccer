@@ -23,7 +23,7 @@ Dalam tim ini, saya bertanggung jawab penuh sebagai **Hardware Executor**, yang 
 
 Alasan teknis di balik desain ini:
 * **Penggunaan ESP-01S:** Selain karena *form factor*-nya yang sangat kecil sehingga menghemat ruang pada sasis mobil robot, Mikrokontroller ini juga sudah lama tidak saya gunakan sehingga saya ingin memanfaatkannya untuk suatu projek, meski ukurannya yang kecil namun tetap memiliki kemampuan komunikasi WiFi/ESP-NOW yang mumpuni.
-* **Penggunaan ESP-8266:** Saat membuat proyek ini saya belum memiliki ESP32 dan mikrokontroller ini juga senasib dengan ESP-01S yang sudah lama tidak digunakan, maka saya gabungkan ke dalam proyek ini. Mengingat ESP-8266 juga memiliki kemampuan WiFi/ESP-NOW yang cocok untuk proyek transreceiver ini.
+* **Penggunaan ESP-8266:** Saat membuat proyek ini saya belum memiliki ESP32 dan mikrokontroller ini juga senasib dengan ESP-01S yang sudah lama tidak digunakan, maka saya gabungkan ke dalam proyek ini. Mengingat ESP-8266 juga memiliki kemampuan WiFi/ESP-NOW yang cocok untuk proyek transceiver ini.
 * **Pemilihan DRV8833:** Sama seperti ESP-01S, motor driver ini memiliki *form factor* yang kecil namun cukup powerfull dibandingkan dengan motor driver dual channel lainnya, mengingat proyek ini disusun di atas PCB dot matrix dengan ukuran 5x7cm.
 * **Manajemen Daya:** Karena ESP-01S dan DRV8833 memiliki operating voltage yang berbeda dan suplai daya yang digunakan adalah 7.4V, maka diperlukan mini 360 buck converter sebagai penurun tegangan untuk menghidupkan ESP-01S dengan output voltage yang stabil di angka 3.3V. Penambahan kapasitor 470uF pada jalur power ESP-01S juga berguna untuk mem-*filter* noise dari motor driver DRV8833 sehingga mencegah ESP-01S restart sendiri.
 

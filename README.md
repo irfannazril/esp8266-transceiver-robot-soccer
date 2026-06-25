@@ -51,4 +51,5 @@ Selama proses eksekusi fisik, ada beberapa kendala yang berhasil diatasi:
 
 * [Robot Soccer]
   <br>
-  <img width="360" height="640" alt="Robot Soccer" src="https://github.com/user-attachments/assets/aa686d3e-0c54-438c-b08b-0ff73e2e1198" />
+  <img width="720" height="auto" alt="Robot Soccer" src="https://github.com/user-attachments/assets/24727ddc-9e39-4302-9eb8-cf3330ffd9cc" />
+

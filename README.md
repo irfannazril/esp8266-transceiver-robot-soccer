@@ -34,6 +34,7 @@ Selama proses eksekusi fisik, ada beberapa kendala yang berhasil diatasi:
 2. **Keterbatasan Pin ESP-01S:** ESP-01S hanya memiliki 2 pin GPIO yang di artinya ia hanya bisa digunakan untuk menggerakkan 1 motor, sedangkan robot soccer ini membutuhkan 2 motor untuk bisa berkendara seperti mobil. *Solusi: saya mengalokasikan pin RX dan TX pada ESP-01S sebagai pin output yang digunakan untuk memberikan sinyal ke motor driver untuk menggerakkan motor ke-2.*
 3. **Hasil 3D Print yang Kurang Akurat:** sempat terjadi salah ukur untuk bagian *penggiring* yang dicetak 3D dengan desain custom akibat dari minimnya informasi ukuran chassis yang digunakan, dan pengukuran manual menggunakan sigmat/jangka sorong digital. *Solusi: melubangi beberapa bagian menggunakan bor agar baut pengencang bisa terpasang pada chassis.*
 4. **Kapasitas Baterai yang Kecil:** karena durasi pertandingan cukup lama, kapasitas batertai 550mAh kurang bertahan lama *Solusi: mengganti baterai yang semula berukuran 14500/AA dengan kapasitas 550mAh menjadi baterai 18650 dengan kapasitas 2000mAh*
+5. **Daya tangkap bola yang sempit:** karena ,desain 3D yang dicetak memiliki daya tangkap bola yang kurang luar *Solusi: menambahkan plat PVC di samping kanan dan kiri untuk menambah daya tangkap bola.*
 
 ## 📸 Dokumentasi Perakitan
 * [Proses penyolderan PCB]
